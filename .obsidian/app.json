@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "./assets"
+  "attachmentFolderPath": "./assets",
+  "showIndentGuide": false,
+  "showLineNumber": true
 }
