@@ -2,5 +2,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "./assets",
   "showIndentGuide": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "spellcheck": false
 }
