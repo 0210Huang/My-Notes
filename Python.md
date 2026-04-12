@@ -13,7 +13,6 @@ a=int(input("Enter your data"))
 
 然后再转化成int类型数据，赋给a
 
-就好了111
 # 2.range()函数：生成一个整数序列
 
 range()函数是**左闭右开**的，也就是如果：
